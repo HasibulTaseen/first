@@ -1,0 +1,23 @@
+.header{
+    height: 300px;
+    background-image: url("ai-generated-pic-artistic-depiction-of-sunflowers-under-a-vast-cloudy-sky-photo.jpg");
+    background-size: cover;
+    background-size: 500px;
+    background-repeat: repeat-x zxc\][zxcv bn];
+}
+h3{
+    font-size: 30px;
+    text-decoration:overline;
+    font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+    margin: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 10px 20px blueviolet;
+}
+.second{
+   /* display: none;*/
+}
+.incident{
+    border: 1px solid purple;
+}
